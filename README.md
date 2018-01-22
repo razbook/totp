@@ -1,4 +1,4 @@
-github.com/balasanjay/totp
+fork github.com/balasanjay/totp
 ====
 
 A Go implementation of the Time-Based One Time Password (TOTP) protocol. Works
